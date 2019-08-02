@@ -1,1 +1,2 @@
-# inspire-ajit.github.io
+# Ajit Gupta 
+## Technology Enthusiast
